@@ -62,8 +62,8 @@ Widget _buildPlaceCard({
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
-   cd my_widget
+   git clone https://github.com/Sarah-kasande/listBody_Widget.git
+   cd listBody_Widget
    ```
 
 2. **Install dependencies**
@@ -85,7 +85,7 @@ This app supports all Flutter platforms:
 -  Web
 -  macOS
 
-## 🎯 What You'll Learn
+##  What You'll Learn
 
 - How to implement and use the `ListBody` widget effectively
 - Creating reusable card components in Flutter
